@@ -1,4 +1,4 @@
-# MyResume
+# MyResV2
 
 color palette
 
@@ -9,4 +9,3 @@ color palette
 #73ACE6
 #CD73E6
 ```
-# MyResV2
